@@ -1,1 +1,10 @@
-10000 Full Stack Application series where I clone 10000 Full Stack Application Developed From Youtubers and other sources.
+#10000 Full Stack Application series where I clone 10000 Full Stack Application Developed From Youtubers and other sources.
+
+
+
+
+#Notes
+
+import React fro ' react'
+import {View, Text} from ' react-native
+const App = () => {
